@@ -9,10 +9,7 @@ import org.junit.Test;
 import java.lang.reflect.Method;
 import java.util.List;
 
-/**
- * Teste ActeursSeedData.parseFilieres() sans modifier la classe d'origine.
- * La méthode étant "private static", on l'invoque par réflexion.
- */
+
 public class ActeursSeedDataTest {
 
     /** Appelle la méthode privée ActeursSeedData.parseFilieres(String) par réflexion. */
